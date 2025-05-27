@@ -1,5 +1,5 @@
 ---
-name: Feature request
+name: Customised Feature Request
 about: Suggest an idea for this project
 title: ''
 labels: ":rocket: enhancement"
