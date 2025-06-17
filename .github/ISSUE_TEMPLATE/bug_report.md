@@ -1,8 +1,8 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: "[BUG] Description"
-labels: ":bug: bug, :rocket: enhancement"
+title: "Description"
+labels: ":bug: bug"
 assignees: fiasjason
 type: Bug
 ---
