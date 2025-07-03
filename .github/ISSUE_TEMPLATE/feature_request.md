@@ -1,8 +1,8 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: '[REQ] '
-labels: ":rocket: enhancement"
+title: ''
+labels: ':rocket: enhancement'
 assignees: fiasjason
 type: Feature
 ---
