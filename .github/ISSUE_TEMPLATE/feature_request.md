@@ -2,8 +2,8 @@
 name: Feature request
 about: Suggest an idea for this project
 title: ''
-labels: ':rocket: enhancement'
-assignees: fiasjason
+labels: '🚀 enhancement'
+assignees: "fiasjason"
 type: Feature
 ---
 
