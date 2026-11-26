@@ -1,9 +1,9 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: "Description"
-labels: ":bug: bug"
-assignees: fiasjason
+title: "BUG: "
+labels: "🐛 bug"
+assignees: "fiasjason"
 type: Bug
 ---
 
